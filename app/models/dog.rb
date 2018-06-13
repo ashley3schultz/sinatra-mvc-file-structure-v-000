@@ -7,4 +7,8 @@ class Dog
     @age = age
   end
 
+  def name 
+    @name 
+  end 
+
 end
